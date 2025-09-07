@@ -7,3 +7,56 @@ cooking a curry for example or a vowel and
 consonant %modulus loop generator for 
 trivial words for creative input 
 to other functions.
+
+Snake has x, y value as x y
+
+x
+
+y
+
+Snake has length of the Snake as l
+
+l
+
+Snake has x y of food as xf yf
+
+xf
+
+yf
+
+Snake has a score as s
+
+s
+
+Snke has a time as t
+
+t
+
+Table:
+
+0. x
+1. y
+2. l
+3. xf
+4. yf
+5. s
+6. t
+
+Now let us add more variables using an 
+adapted version of those present.
+
+7. ceil(x % 2.71)
+8. ceil(y % 2.71)
+9. ceil(l % 2.71)
+A. ceil(xf % 2.71)
+B. ceil(yf % 2.71)
+C. ceil(s % 2.71)
+D. ceil(t % 2.71)
+
+This table can extended with 
+arbitrary operations and rempped
+to any dataset for any creative purpose.
+
+This makes a game of snake sort of like a special
+dice roll. Common sense, but I don't mind the 
+reminder. Thanks :D
