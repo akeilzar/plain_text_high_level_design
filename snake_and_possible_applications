@@ -1,17 +1,19 @@
-The classic video game snake has variable 
+As pertains to music snake the arcade game is not the worst controller. 
+Any data set is magic dice roll is here.
+
+The classic video game snake has variables 
 that can be adapted for other uses.
 
-This came to mind looking at variable in 
+This came to mind looking at variables in 
 etherium etc but many other apps maybe even
-cooking a curry for example or a vowel and 
-consonant %modulus loop generator for 
-trivial words for creative input 
+cooking a curry for example or a vowel and 
+consonant %modulus loop generator for 
+trivial words for creative input 
 to other functions.
 
 Snake has x, y value as x y
 
 x
-
 y
 
 Snake has length of the Snake as l
@@ -21,14 +23,13 @@ l
 Snake has x y of food as xf yf
 
 xf
-
 yf
 
 Snake has a score as s
 
 s
 
-Snke has a time as t
+Snake has a time as t
 
 t
 
@@ -42,7 +43,7 @@ Table:
 5. s
 6. t
 
-Now let us add more variables using an 
+Now let us add more variables using an 
 adapted version of those present.
 
 7. ceil(x % 2.71)
@@ -53,10 +54,11 @@ B. ceil(yf % 2.71)
 C. ceil(s % 2.71)
 D. ceil(t % 2.71)
 
-This table can extended with 
-arbitrary operations and rempped
+This table can extended with 
+arbitrary operations and remapped
 to any dataset for any creative purpose.
 
 This makes a game of snake sort of like a special
-dice roll. Common sense, but I don't mind the 
-reminder. Thanks :D
+dice roll. Common sense, but I don't mind the 
+reminder. Thanks :D
+
